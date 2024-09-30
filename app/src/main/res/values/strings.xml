@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Masga Satria Wirawan</string>
+    <string name="app_name">My Application</string>
+    <string name="name_label">Nama:</string>
+    <string name="name_value">Masga Satria Wirawan</string>
+    <string name="id_number_label">NIM:</string>
+    <string name="id_number_value">22.01.4741</string>
+    <string name="study_program_label">Program Studi:</string>
+    <string name="study_program_value">D3 Teknik Informatika</string>
 </resources>
