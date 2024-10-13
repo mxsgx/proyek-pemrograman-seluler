@@ -1,9 +1,12 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="name_label">Nama:</string>
+    <string name="study_program_input_label">Program Studi Mahasiswa:</string>
+    <string name="study_program_input_hint">Input Program Studi Mahasiswa</string>
+    <string name="submit">Submit</string>
+    <string name="name_label">Nama</string>
     <string name="name_value">Masga Satria Wirawan</string>
-    <string name="id_number_label">NIM:</string>
-    <string name="id_number_value">22.01.4741</string>
-    <string name="study_program_label">Program Studi:</string>
-    <string name="study_program_value">D3 Teknik Informatika</string>
+    <string name="student_id_label">NIM</string>
+    <string name="student_id_value">22.01.4741</string>
+    <string name="bg_card_description">Background Card</string>
+    <string name="separator_colon">:</string>
 </resources>
