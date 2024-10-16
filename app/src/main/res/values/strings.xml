@@ -1,12 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="study_program_input_label">Program Studi Mahasiswa:</string>
-    <string name="study_program_input_hint">Input Program Studi Mahasiswa</string>
+    <string name="password_input_hint">Password</string>
+    <string name="email_input_hint">Email</string>
+    <string name="login">Login</string>
     <string name="submit">Submit</string>
-    <string name="name_label">Nama</string>
-    <string name="name_value">Masga Satria Wirawan</string>
-    <string name="student_id_label">NIM</string>
-    <string name="student_id_value">22.01.4741</string>
-    <string name="bg_card_description">Background Card</string>
-    <string name="separator_colon">:</string>
+    <string name="terms_and_conditions">Syarat dan Ketentuan Penggunaan Aplikasi\n1. Pendahuluan\nDengan mengunduh, menginstal, atau menggunakan Aplikasi [Nama Aplikasi] (selanjutnya disebut \"Aplikasi\"), Anda (\"Pengguna\") menyetujui untuk terikat pada Syarat dan Ketentuan ini. Syarat dan Ketentuan ini dapat diperbarui dari waktu ke waktu, jadi silakan periksa secara berkala untuk mengetahui perubahan terbaru.\n2. Penggunaan Aplikasi\n- Lisensi: Kami memberikan Anda lisensi terbatas untuk menggunakan Aplikasi.\n- Penggunaan yang Dilarang: Anda dilarang menggunakan Aplikasi untuk tujuan yang melanggar hukum atau merugikan orang lain.\n- Konten Pengguna: Anda bertanggung jawab atas semua konten yang Anda unggah atau bagikan melalui Aplikasi.</string>
 </resources>
