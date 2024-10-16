@@ -4,5 +4,4 @@
     <string name="email_input_hint">Email</string>
     <string name="login">Login</string>
     <string name="submit">Submit</string>
-    <string name="terms_and_conditions">Syarat dan Ketentuan Penggunaan Aplikasi\n1. Pendahuluan\nDengan mengunduh, menginstal, atau menggunakan Aplikasi [Nama Aplikasi] (selanjutnya disebut \"Aplikasi\"), Anda (\"Pengguna\") menyetujui untuk terikat pada Syarat dan Ketentuan ini. Syarat dan Ketentuan ini dapat diperbarui dari waktu ke waktu, jadi silakan periksa secara berkala untuk mengetahui perubahan terbaru.\n2. Penggunaan Aplikasi\n- Lisensi: Kami memberikan Anda lisensi terbatas untuk menggunakan Aplikasi.\n- Penggunaan yang Dilarang: Anda dilarang menggunakan Aplikasi untuk tujuan yang melanggar hukum atau merugikan orang lain.\n- Konten Pengguna: Anda bertanggung jawab atas semua konten yang Anda unggah atau bagikan melalui Aplikasi.</string>
 </resources>
