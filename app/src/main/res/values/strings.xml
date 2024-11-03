@@ -1,7 +1,44 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="study_program_input_label">Program Studi Mahasiswa:</string>
+    <string name="study_program_input_hint">Input Program Studi Mahasiswa</string>
+    <string name="name_label">Nama</string>
+    <string name="name_value">Masga Satria Wirawan</string>
+    <string name="student_id_label">NIM</string>
+    <string name="student_id_value">22.01.4741</string>
+    <string name="bg_card_description">Background Card</string>
+    <string name="separator_colon">:</string>
     <string name="password_input_hint">Password</string>
     <string name="email_input_hint">Email</string>
     <string name="login">Login</string>
     <string name="submit">Submit</string>
+    <string name="form_title">Form Identitas Mahasiswa</string>
+    <string name="avatar_description">Avatar</string>
+    <string name="address_input_hint">Alamat</string>
+    <string name="phone_number_input_hint">Nomor Handphone</string>
+    <string name="gender_input_label">Jenis Kelamin</string>
+    <string name="gender_input_male_text">Laki-laki</string>
+    <string name="gender_input_female_text">Perempuan</string>
+    <string name="class_label">Kelas</string>
+    <string name="club_and_activity_label">UKM Yang Diikuti</string>
+    <string name="club_and_activity_value_1_text">UKM 1</string>
+    <string name="club_and_activity_value_2_text">UKM 2</string>
+    <string name="club_and_activity_value_3_text">UKM 3</string>
+    <string name="save">Simpan</string>
+    <string name="form_button_text">Isi Biodata Lainnya</string>
+    <string name="study_program_label">Program Studi</string>
+    <string name="study_program_value">D3 Teknik Informatika</string>
+    <string name="address_label">Alamat</string>
+    <string name="phone_number_label">Nomor Handphone</string>
+    <string name="email_label">Email</string>
+    <string name="gender_label">Jenis Kelamin</string>
+    <string name="class_and_activity_label">UKM Yang Diikuti</string>
+    <string name="other_bio_title">Identitas Mahasiswa</string>
+
+    <string-array name="classes">
+        <item>Pilih Kelas</item>
+        <item>Kelas 1</item>
+        <item>Kelas 2</item>
+        <item>Kelas 3</item>
+    </string-array>
 </resources>
