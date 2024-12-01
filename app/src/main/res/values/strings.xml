@@ -34,6 +34,11 @@
     <string name="gender_label">Jenis Kelamin</string>
     <string name="class_and_activity_label">UKM Yang Diikuti</string>
     <string name="other_bio_title">Identitas Mahasiswa</string>
+    <string name="contact_list">Contact List</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="contact_phone_number">Phone Number</string>
+    <string name="contact_status">Available</string>
+    <string name="contact_icon_description">Contact Icon</string>
 
     <string-array name="classes">
         <item>Pilih Kelas</item>
