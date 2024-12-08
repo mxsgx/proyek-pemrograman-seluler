@@ -39,6 +39,8 @@
     <string name="contact_phone_number">Phone Number</string>
     <string name="contact_status">Available</string>
     <string name="contact_icon_description">Contact Icon</string>
+    <string name="home_text">Home</string>
+    <string name="logout">Logout</string>
 
     <string-array name="classes">
         <item>Pilih Kelas</item>
