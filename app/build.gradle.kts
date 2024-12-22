@@ -40,7 +40,13 @@ dependencies {
     implementation(libs.recyclerview)
     implementation(libs.recyclerview.selection)
     implementation(libs.cardview)
+    implementation(libs.room.runtime)
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
+
+
+    // If this project only uses Java source, use the Java annotationProcessor
+    // No additional plugins are necessary
+    annotationProcessor(libs.room.compiler)
 }
